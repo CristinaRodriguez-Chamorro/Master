@@ -1,6 +1,6 @@
 # Master
 
-Este repositorio público albergará todos los trabajos realizados por mi, durante el máster sobre BlockChain y Big Data. 
+Este repositorio público albergará todos los trabajos realizados durante el máster sobre BlockChain y Big Data, cursado en 2019-2020. 
 
 De manera que, se podrán encontrar trabajos sobre: 
 
